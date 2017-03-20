@@ -1,0 +1,18 @@
+{
+  "name": "es6_template",
+  "version": "1.0.0",
+  "description": "es6 features",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "es6",
+    "features"
+  ],
+  "author": "udit",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.2.1"
+  }
+}
